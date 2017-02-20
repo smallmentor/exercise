@@ -1,6 +1,6 @@
 6666
 
-conflict first pull ver
+conflict first push ver
 
 conflict sample
 conflict 2 late push ver
